@@ -22,7 +22,7 @@ This is a Python program that takes a number as input from the user and prints i
 - Displays results in a readable format
 
 
-#Assignment 1c - Advanced Calculator
+# Assignment 1c - Advanced Calculator
 
 This program is a Python-based calculator implemented using a function.It takes two input values, performs multiple arithmetic operations, and returns the results as a list.
 
