@@ -10,10 +10,7 @@ This program takes two integers as input and performs:
 - Modulus
 - Exponentiation
 
-It also handles division by zero.
-
-## File
-- calculator.py
+It also handles division by zero
 
 
 # Assignment 1b - Multiplication Table
