@@ -35,7 +35,4 @@ This program is a Python-based calculator implemented using a function.It takes 
 - Exponentiation
 
 
-
-- Takes two numbers as input
-- Stores all results in a list
-- Returns the list to the main program
+It takes two numbers as input,stores all results in a list and returns the list to the main program
