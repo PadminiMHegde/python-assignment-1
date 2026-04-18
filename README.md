@@ -34,6 +34,8 @@ This program is a Python-based calculator implemented using a function.It takes 
 - Modulus 
 - Exponentiation
 
+
+
 - Takes two numbers as input
 - Stores all results in a list
 - Returns the list to the main program
