@@ -1,4 +1,4 @@
-# Python Assignment 1 - Simple Calculator
+# Python Assignment 1a - Simple Calculator
 
 This program takes two integers as input and performs:
 
